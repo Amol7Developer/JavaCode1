@@ -1,4 +1,4 @@
-public class Main {
+public class JavaPrivateKeyword {
   private String fname = "John";
   private String lname = "Doe";
   private String email = "john@doe.com";
@@ -8,7 +8,7 @@ public class Main {
 
 
   public static void main(String[] args) {
-    Main myObj = new Main();
+    JavaPrivateKeyword myObj = new JavaPrivateKeyword();
     System.out.println("Name: " + myObj.fname + " " + myObj.lname);
     System.out.println("Email: " + myObj.email);
     System.out.println("Age: " + myObj.age);
