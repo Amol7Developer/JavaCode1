@@ -1,3 +1,9 @@
+//The throw keyword is used to create a custom error.
+//The throw statement is used together with an exception type. There are many exception types available in Java: ArithmeticException, ClassNotFoundException, ArrayIndexOutOfBoundsException, SecurityException, etc.
+//Used to throw an exception for a method
+//Cannot throw multiple exceptions
+//throw is followed by an object (new type)
+//used inside the method
 public class JavaThrowKeyword {
   static void checkAge(int age) { 
     if (age < 18) {
