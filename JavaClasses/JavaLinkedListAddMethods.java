@@ -1,6 +1,8 @@
 import java.util.LinkedList;
 
-public class Main {
+//The LinkedList stores its items in "containers.
+
+public class JavaLinkedListAddMethods {
   public static void main(String[] args) {
     LinkedList<String> cars = new LinkedList<String>();
     cars.add("Volvo");
