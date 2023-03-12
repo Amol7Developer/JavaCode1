@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 //To remove all items, use the clear() method:
-public class Main {
+public class JavaHashMapClearMethod {
   public static void main(String[] args) {
     HashMap<String, String> capitalCities = new HashMap<String, String>();
     capitalCities.put("England", "London");
