@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 
 //Create a HashMap object called people that will store String keys and Integer values:
-public class Main {
+public class JavaHashMapKeyValuesMethod {
   public static void main(String[] args) {
 
     // Create a HashMap object called people
