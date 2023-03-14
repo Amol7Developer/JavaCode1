@@ -2,7 +2,7 @@
 import java.util.HashSet;
 
 //To check whether an item exists in a HashSet, use the contains() method:
-public class Main {
+public class JavaHashSetContainsMethod {
   public static void main(String[] args) {
     HashSet<String> cars = new HashSet<String>();
     cars.add("Volvo");
