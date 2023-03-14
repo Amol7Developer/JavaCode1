@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 //Print keys and values
-public class Main {
+public class JavaHashMapKeyValuesMethod {
   public static void main(String[] args) {
     HashMap<String, String> capitalCities = new HashMap<String, String>();
     capitalCities.put("England", "London");
