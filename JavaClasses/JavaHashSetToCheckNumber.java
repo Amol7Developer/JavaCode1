@@ -8,7 +8,7 @@ import java.util.HashSet;
 //For other primitive types, use:Boolean for boolean, Character for char, Double for double, etc
 
 //Use a HashSet that stores Integer objects:
-public class Main {
+public class JavaHashSetToCheckNumber {
   public static void main(String[] args) {
 
     // Create a HashSet object called numbers
