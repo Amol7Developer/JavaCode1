@@ -24,11 +24,11 @@ class Dog extends Animal {
 class JAvaPolymorphismCode {
   public static void main(String[] args) {
     Animal myAnimal = new Animal();
-    Animal myPig = new Pig();
+    Animal myCat = new Cat();
     Animal myDog = new Dog();
         
     myAnimal.animalSound();
-    myPig.animalSound();
+    myCat.animalSound();
     myDog.animalSound();
   }
 }
